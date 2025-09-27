@@ -21,7 +21,7 @@ RADIO_STATIONS = {
     'rock200s': 'https://www.youtube.com/live/VbTYnJshTas?si=DjJzQEsflRvijC-u',
     'dens_djcole': 'https://www.youtube.com/watch?v=MBi-sd9H4gg',
     'grand_radio': 'https://www.youtube.com/watch?v=D6bF7sV5dwM',
-    'idj_radio': 'https://www.youtube.com/watch?v=pDV3PwwSnuA'
+    'idj_radio': 'https://www.youtube.com/watch?v=pDV3PwwSnuA',
     'lola': 'https://player.radiolola.rs/'
 }
 
