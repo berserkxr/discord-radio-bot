@@ -250,15 +250,15 @@ async def help_command(ctx):
     )
     
     commands_info = [
-        ("!join", "Join your voice channel"),
-        ("!leave", "Leave the current voice channel"),
-        ("!play <station/url>", "Play a radio station or custom URL"),
-        ("!stop", "Stop current playback"),
-        ("!volume <0-100>", "Change playback volume"),
-        ("!stations", "List all available radio stations"),
-        ("!nowplaying", "Show currently playing track"),
-        ("!status", "Show bot status information"),
-        ("!help", "Show this help message")
+        ("!ulazi", "Boto ulazi u voice"),
+        ("!leave", "Boto izlazi iz voice"),
+        ("!p <stanica/url>", "Sviri radio stanica ili custom URL"),
+        ("!stop", "Prekini da sviras"),
+        ("!volume <0-100>", "Promenji zvuko"),
+        ("!stanici", "Pokazi dostupni stanici"),
+        ("!trenutno", "Pokazi sto trenutno ide"),
+        ("!status", "Pokazi bot status"),
+        ("!help", "Pokazi ovaa poraka")
     ]
     
     for command, description in commands_info:
