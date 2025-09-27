@@ -22,7 +22,8 @@ RADIO_STATIONS = {
     'dens_djcole': 'https://www.youtube.com/watch?v=MBi-sd9H4gg',
     'grand_radio': 'https://www.youtube.com/watch?v=D6bF7sV5dwM',
     'idj_radio': 'https://www.youtube.com/watch?v=pDV3PwwSnuA',
-    'lola': 'https://streaming.tdiradio.com/radiolola.mp3'
+    'lola': 'https://streaming.tdiradio.com/radiolola.mp3',
+    'energy': 'https://play.global.audio/nrj_low.ogg'
 }
 
 # yt-dlp options
