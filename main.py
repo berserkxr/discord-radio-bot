@@ -258,7 +258,7 @@ async def help_command(ctx):
         ("!stanici", "Pokazi dostupni stanici"),
         ("!trenutno", "Pokazi sto trenutno ide"),
         ("!status", "Pokazi bot status"),
-        ("!help", "Pokazi ovaa poraka")
+        ("!help", "Pokazi komandite")
     ]
     
     for command, description in commands_info:
@@ -287,14 +287,3 @@ if __name__ == '__main__':
         print("Please create a .env file with your bot token.")
     else:
         bot.run(TOKEN)
-
-        
-
-
-        
-
-    
-    
-
-    
-
