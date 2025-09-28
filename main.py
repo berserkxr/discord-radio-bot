@@ -23,7 +23,9 @@ RADIO_STATIONS = {
     'grand_radio': 'https://www.youtube.com/watch?v=D6bF7sV5dwM',
     'idj_radio': 'https://www.youtube.com/watch?v=pDV3PwwSnuA',
     'lola': 'https://streaming.tdiradio.com/radiolola.mp3',
-    'energy': 'https://play.global.audio/nrj_low.ogg'
+    'energy': 'https://play.global.audio/nrj_low.ogg',
+    'veselina': 'https://bss1.neterra.tv/veselina/stream_0.m3u8'
+
 }
 
 # yt-dlp options
